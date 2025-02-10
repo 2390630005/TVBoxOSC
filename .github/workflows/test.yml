@@ -25,7 +25,7 @@ jobs:
             repoName: TVBoxOS
             branchName: main
           - userName: 2390630005
-            repoName: Box
+            repoName: MaoTV
             branchName: main
             java_ver: 17
     steps:
