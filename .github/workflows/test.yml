@@ -21,11 +21,11 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: q215613905
-            repoName: TVBoxOS
+          - userName: takagen99
+            repoName: TVBoxOS_Portrait
             branchName: main
           - userName: 2390630005
-            repoName: MaoTV
+            repoName: TVBoxOS-Mobile
             branchName: main
             java_ver: 17
     steps:
